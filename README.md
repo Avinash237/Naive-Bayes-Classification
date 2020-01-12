@@ -1,0 +1,2 @@
+# Naive-Bayes-Classification
+ It is a classification technique based on Bayes Theorem. In simple terms, it is a probabilistic classifier which assumes that the presence of a particular feature in a class is not related to the presence of other features. It calculates the Posterior probability of all the events using the Bayes Theorem. Then it takes the event that has the maximum posterior probability.
